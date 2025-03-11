@@ -19,29 +19,29 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: OAuth 2.0 Security Best Current Practice
+abbrev: OAuth 2.0 Security BCP
 category: info
 
-docname: draft-todo-yourname-protocol-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+docname: draft-wuertele-oauth-rfc9700bis-latest
+submissiontype: IETF
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: Security
+workgroup: OAuth Working Group
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - security
+ - oauth2
+ - best current practice
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  #group: WG
+  #type: Working Group
+  #mail: WG@example.com
+  #arch: https://example.com/WG
+  github: SECtim/draft-wuertele-oauth-security-topics-bis
+  #latest: https://example.com/LATEST
 
 author:
  -
