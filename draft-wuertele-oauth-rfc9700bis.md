@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: Security
-workgroup: OAuth Working Group
+area: ""
+workgroup: "Web Authorization Protocol"
 keyword:
  - security
  - oauth2
  - best current practice
 venue:
-  #group: WG
-  #type: Working Group
-  #mail: WG@example.com
-  #arch: https://example.com/WG
-  github: SECtim/draft-wuertele-oauth-security-topics-bis
-  #latest: https://example.com/LATEST
+  group: "Web Authorization Protocol"
+  type: ""
+  mail: "oauth@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/oauth/"
+  github: "SECtim/draft-wuertele-oauth-security-topics-bis"
+  latest: "https://SECtim.github.io/draft-wuertele-oauth-security-topics-bis/draft-wuertele-oauth-rfc9700bis.html"
 
 author:
  -
